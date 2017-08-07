@@ -1,0 +1,8 @@
+*.class
+
+#folders#
+/target
+*/META-INF/*
+
+# Packaged files #
+*.jar
